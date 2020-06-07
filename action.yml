@@ -1,0 +1,13 @@
+name: "Branch-based Environment Variables"
+author: "cobraz"
+description: "Parses environment variables into variable based on branch."
+branding:
+  icon: git-branch
+  color: gray-dark
+inputs:
+  name:
+    description: "Environment Variable"
+    required: true
+runs:
+  using: "node12"
+  main: "dist/main.js"
