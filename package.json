@@ -14,7 +14,7 @@
     }
   },
   "dependencies": {
-    "@actions/core": "^1.2.4"
+    "@actions/core": "^1.2.6"
   },
   "devDependencies": {
     "husky": "^4.2.5",
