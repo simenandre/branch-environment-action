@@ -1,10 +1,10 @@
 {
   "name": "branch-environment-action",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:cobraz/branch-environment-action.git",
-  "author": "<cobraz@cobraz.no>",
+  "repository": "github:simenandre/branch-environment-action",
   "license": "MIT",
+  "author": "<cobraz@cobraz.no>",
+  "main": "index.js",
   "scripts": {
     "build": "webpack"
   },
